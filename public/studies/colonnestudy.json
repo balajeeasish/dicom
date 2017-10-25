@@ -1,0 +1,23 @@
+{
+    "patientName": "Dan",
+    "patientId": "PID102",
+    "studyDate": "20100510",
+    "modality": "ABC",
+    "studyDescription": "AGECANONIX",
+    "numImages": 6,
+    "studyId": "colonnestudy",
+    "seriesList" : [
+        {
+            "seriesDescription": "Colonne",
+            "seriesNumber" : "6",
+            "instanceList" : [
+                {"imageId" : "colonnestudy/IM-0001-1001.dcm"},
+                {"imageId" : "colonnestudy/IM-0001-2001.dcm"},
+                {"imageId" : "colonnestudy/IM-0001-3001.dcm"},
+                {"imageId" : "colonnestudy/IM-0001-5001.dcm"},
+                {"imageId" : "colonnestudy/IM-0001-6001.dcm"},
+                {"imageId" : "colonnestudy/IM-0001-7001.dcm"},
+            ]
+        }
+    ]
+}

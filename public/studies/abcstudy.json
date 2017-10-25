@@ -1,0 +1,61 @@
+{
+  "patientName": "Patient^Anonymous",
+  "patientId": "PID101",
+  "studyDate": "20100510",
+  "modality": "ABC",
+  "studyDescription": "AGECANONIX",
+  "numImages": 1123,
+  "studyId": "agecanonix",
+    "seriesList" : [
+        {
+
+            "seriesDescription": "AGECANONIX",
+            "seriesNumber" : "2",
+            "instanceList" : [
+                {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  1.0  B20f - 6/IM-0001-0001.dcm"},
+                {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  1.0  B20f - 6/IM-0001-0002.dcm"},
+                {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  1.0  B20f - 6/IM-0001-0003.dcm"},
+                {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  1.0  B20f - 6/IM-0001-0004.dcm"},
+                {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  1.0  B20f - 6/IM-0001-0005.dcm"}
+
+            ]
+        },
+        {
+
+            "seriesDescription": "SCOUT PA",
+            "seriesNumber" : "1",
+            "instanceList" : [
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  0% - 9/IM-0001-0001.dcm"},
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  0% - 9/IM-0001-0002.dcm"},
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  0% - 9/IM-0001-0003.dcm"},
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  0% - 9/IM-0001-0004.dcm"},
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  0% - 9/IM-0001-0005.dcm"}
+            ]
+        },
+        {
+
+            "seriesDescription": "SCOUT LAT",
+            "seriesNumber" : "1.1",
+            "instanceList" : [
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  10% - 10/IM-0001-0001.dcm"},
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  10% - 10/IM-0001-0002.dcm"},
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  10% - 10/IM-0001-0003.dcm"},
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  10% - 10/IM-0001-0004.dcm"},
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  10% - 10/IM-0001-0005.dcm"}
+
+            ]
+        },
+        {
+
+            "seriesDescription": "PATHOLOGY",
+            "seriesNumber" : "5",
+            "instanceList" : [
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  20% - 11/IM-0001-0001.dcm"},
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  20% - 11/IM-0001-0002.dcm"},
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  20% - 11/IM-0001-0003.dcm"},
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  20% - 11/IM-0001-0004.dcm"},
+              {"imageId": "AGECANONIX/Specials 1CoronaryCTA_with_spiral _CTA_pre/CorCTA w-c  3.0  B20f  20% - 11/IM-0001-0005.dcm"}
+            ]
+        }
+    ]
+}

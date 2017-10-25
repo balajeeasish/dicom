@@ -1,0 +1,49 @@
+{
+    "studyList": [
+        {
+            "patientName" : "MISTER^CT",
+            "patientId" : "2178309",
+            "studyDate" : "20010105",
+            "modality" : "CT",
+            "studyDescription" :"CHEST",
+            "numImages" : 111,
+            "studyId" : "ctstudy"
+        },
+        {
+            "patientName" : "MISTER^CR",
+            "patientId" : "9227465",
+            "studyDate" : "20010109",
+            "modality" : "CR",
+            "studyDescription" :"pelvis",
+            "numImages" : 2,
+            "studyId" : "crstudy"
+        },
+        {
+            "patientName": "Patient^Anonymous",
+            "patientId": "12345678",
+            "studyDate": "20100510",
+            "modality": "PTCT",
+            "studyDescription": "Neck^HeadNeckPETCT",
+            "numImages": 261,
+            "studyId": "ptctstudy"
+        },
+        {
+            "patientName": "Pat",
+            "patientId": "PID101",
+            "studyDate": "20100510",
+            "modality": "ABC",
+            "studyDescription": "AGECANONIX",
+            "numImages": 20,
+            "studyId": "agecanonix"
+        },
+        {
+            "patientName": "Dan",
+            "patientId": "PID102",
+            "studyDate": "20120510",
+            "modality": "CT",
+            "studyDescription": "COLONNE",
+            "numImages": 6,
+            "studyId": "colonnestudy"
+        }
+    ]
+}
